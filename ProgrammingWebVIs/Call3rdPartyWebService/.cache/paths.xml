@@ -1,0 +1,146 @@
+<SerializableDictionary>
+	<item>
+		<key>
+			<string>Call3rdPartyWebService.gwebprojectcache</string>
+		</key>
+		<value>
+			<string>Call3rdPartyWebService.gwebprojectcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>dsf-library-library-src-1.0.0.0_25f6cb3dd122477aafc0bad3c4954df6.niaddoncache</string>
+		</key>
+		<value>
+			<string>dsf-library-library-src-1.0.0.0.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>WebApp_9d5de927210d4a7cb1e8329c270e0be0.gcompcache</string>
+		</key>
+		<value>
+			<string>WebApp.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-g-http-src-1.0.0.16_aa3aded8b4f847199519a742048c46c1.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-g-http-src-1.0.0.16.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>ni-g-stdlib-src-1.0.6.45_ae91bfe7117c4927a48487d75be04fa1.niaddoncache</string>
+		</key>
+		<value>
+			<string>ni-g-stdlib-src-1.0.6.45.niaddoncache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.HTTP_fd4e3a38f1954bd9987c8e5ba2c21753_aa3aded8b4f847199519a742048c46c1.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.HTTP.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.G Core_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.G Core.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>NI.G Core.Color Picker_e0ee65ee4fe249cab5bb80866728cbc7_ae91bfe7117c4927a48487d75be04fa1.gcompcache</string>
+		</key>
+		<value>
+			<string>NI.G Core.Color Picker.gcompcache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Client Handle_23_fd4e3a38f1954bd9987c8e5ba2c21753_aa3aded8b4f847199519a742048c46c1.gtypecache</string>
+		</key>
+		<value>
+			<string>Client Handle.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Error_78745185e3294de397e9b4b977f08ad4_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gtypecache</string>
+		</key>
+		<value>
+			<string>Error.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>httpWebServerClient_43_fd4e3a38f1954bd9987c8e5ba2c21753_aa3aded8b4f847199519a742048c46c1.slicache</string>
+		</key>
+		<value>
+			<string>httpWebServerClient.slicache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>httpClient_27_fd4e3a38f1954bd9987c8e5ba2c21753_aa3aded8b4f847199519a742048c46c1.slicache</string>
+		</key>
+		<value>
+			<string>httpClient.slicache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>error protocol_69e533219fcf4d3aaa9022ebe114363d_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gtypecache</string>
+		</key>
+		<value>
+			<string>error protocol.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>Occurrence_42_fd4e3a38f1954bd9987c8e5ba2c21753_aa3aded8b4f847199519a742048c46c1.gtypecache</string>
+		</key>
+		<value>
+			<string>Occurrence.gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>JSON (multiple)_519b74828cf0460e9e1f26a933f0be9b_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gtypecache</string>
+		</key>
+		<value>
+			<string>JSON (multiple).gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>JSON (call chain)_f77d9d0b415c44a9914b0bbd84aa0d89_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gtypecache</string>
+		</key>
+		<value>
+			<string>JSON (call chain).gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>JSON (location)_3374c43fed3b405f9407d18eb34ec0e8_e40fc234cb9c417c824da9e6cb10230e_ae91bfe7117c4927a48487d75be04fa1.gtypecache</string>
+		</key>
+		<value>
+			<string>JSON (location).gtypecache</string>
+		</value>
+	</item>
+	<item>
+		<key>
+			<string>dsf-library-library-src-1.0.0.0_939f752d6c844b51b5aac92fd14eed30.niaddoncache</string>
+		</key>
+		<value>
+			<string>dsf-library-library-src-1.0.0.0_1.niaddoncache</string>
+		</value>
+	</item>
+</SerializableDictionary>
