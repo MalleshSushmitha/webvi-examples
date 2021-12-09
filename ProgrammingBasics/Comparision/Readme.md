@@ -8,7 +8,7 @@ Demonstrates the functionality of the character comparison nodes.
 
 ## Comparison Nodes
 
-![Comparison Nodes Demo Link](https://img.shields.io/badge/Details-Demo_Link-green.svg)](https://ni.github.io/webvi-examples/ProgrammingBasics/Comparision/ComparisonNodes/Builds/WebApp_Default%20Web%20Server/)
+[![Comparison Nodes Demo Link](https://img.shields.io/badge/Details-Demo_Link-green.svg)](https://ni.github.io/webvi-examples/ProgrammingBasics/Comparision/ComparisonNodes/Builds/WebApp_Default%20Web%20Server/)
 
 Demonstrates how the Equal? node operates with different data types.
 
