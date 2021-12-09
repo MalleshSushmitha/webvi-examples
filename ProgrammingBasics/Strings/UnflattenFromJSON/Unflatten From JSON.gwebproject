@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="58A6991ADC1E6F6FF2F267F92CEBA4059E43F1708CE430D9FE06AEE1FB73088D221258CC12F4F61D28380F0ECAC68E832D263CF69F5D8CD0F937421EC41EEE1A" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="E34711BBCCEAA42C04D568F04BF731F54F7C8AFD1A6C46E6340C3E65C037450C30352715EF2E853E0C51C5890DC0D4B925A29968F5A84167D41209B336D83D23" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="9.0.0.0" Version="9.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.1.0.50238" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -140,5 +140,7 @@
 		</NameScopingEnvoy>
 		<NameScopingEnvoy Id="db4a657f5fc44a6e867ef4bbd617a6ad" ModelDefinitionType="PackageDependenciesScope" Name="PackageDependenciesScope" />
 	</Project>
-	<ProjectInformation xmlns="http://www.ni.com/PlatformFramework" />
+	<ProjectInformation xmlns="http://www.ni.com/PlatformFramework">
+		<p.Description>Demonstrates the LabVIEW JSON (JavaScript Object Notation) parser by flattening a cluster to JSON then unflattening it back into multiple pieces.</p.Description>
+	</ProjectInformation>
 </SourceFile>
